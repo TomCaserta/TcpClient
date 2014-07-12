@@ -1,0 +1,6 @@
+name: tcpclient
+version: 1.0.0
+author: Tom Caserta <tom@caserta.co.uk>
+description: For use with chrome packaged apps, an easy to use chrome TCP socket wrapper mimicing dart syntax.
+dependencies:
+  chrome: '>=0.6.0 <0.7.0'

@@ -1,0 +1,14 @@
+name: tcp_test
+version: 0.0.1
+author: Tom Caserta
+description: A tcp test
+environment:
+  sdk: any
+dependencies:
+  browser: any
+  chrome: any
+  tcpclient:
+    path: ../../
+  unittest: any
+transformers:
+- chrome
